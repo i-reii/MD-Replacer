@@ -1,4 +1,4 @@
-# MD-Replacer (Muse Dash Replacer)
+# MD-Replacer (Muse Dash Skin Replacer)
 
 **MD-Replacer** is a lightweight [MelonLoader](https://melonwiki.xyz/) mod for **Muse Dash** that allows you to replace any in-game texture (skins, UI, backgrounds, etc.) with your own custom `.png` files.
 
