@@ -30,3 +30,15 @@
 ## 📜 Credits
 - Created by **rei**
 - Developed for **Muse Dash** using MelonLoader.
+
+---
+
+## ⚖️ License & Terms
+
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+
+- **Open Source:** You are free to copy, modify, and distribute this software.
+- **Copyleft:** If you modify this mod and distribute it, you must also release your source code under the same GPLv3 license.
+- **Non-Commercial:** While GPL allows many things, selling this mod as a closed-source product is strictly prohibited by the nature of this license.
+
+For more details, see the [LICENSE](LICENSE) file in this repository.
