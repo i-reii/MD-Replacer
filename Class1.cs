@@ -5,7 +5,7 @@ using MelonLoader;
 using UnityEngine;
 using HarmonyLib;
 
-[assembly: MelonInfo(typeof(MDReplacer.Main), "MD-Replacer", "1.1", "rei")]
+[assembly: MelonInfo(typeof(MDReplacer.Main), "MD-Replacer", "1.0", "rei")]
 [assembly: MelonGame("PeroPeroGames", "MuseDash")]
 
 namespace MDReplacer
@@ -96,4 +96,5 @@ namespace MDReplacer
             }
         }
     }
+
 }
